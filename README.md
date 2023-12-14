@@ -1,2 +1,2 @@
 # Axsolot-Laucher
-Axsolot Laucher C#
+Axsolot Laucher Minecraft
